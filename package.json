@@ -4,9 +4,10 @@
   "description": "Do animations in your console with Strings!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js --no-warnings"
   },
-  "keywords": [],
+  "homepage": "https://github.com/yaxeldragon/animify#get-started",
+  "keywords": ["animation", "animate", "frames", "fps", "animations", "console", "animate console"],
   "author": "",
   "license": "ISC"
 }
